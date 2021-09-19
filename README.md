@@ -1,5 +1,5 @@
 # Sudoku_solver
-This is a program made to solve a 9X9 grid of Sudoku using it's rules. I've implemented a function called "Possibility", that checks the three most important conditions assoicated
+This is a program made to solve a 9X9 grid of Sudoku using its rules. I've implemented a function called "Possibility", that checks the three most important conditions assoicated
 with sudoku.
 1. Every row has numbers from 1 to 9 and no number should be repeating in a given row.
 2. Every column has numbers from 1 to 9 and no number should be repeating in a single given row.
