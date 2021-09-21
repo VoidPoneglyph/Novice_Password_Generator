@@ -1,1 +1,1 @@
-The objective of this project is to extract a database of tweets and identify/classify them according to their emotions. We use API keys from twitter and will only be extracting public tweets. Twitter user information will NOT be extracted in this project.
+An amateur password generator that creates a sequence of randomized characters that include numbers, lowercase, uppercase as well as special characters. The available options on character sizes are 8,16,24,32 - any multiple of 8. It's lower limit of character size is 8.
